@@ -29,5 +29,8 @@
     <ClCompile Include="ArbeitProjektZwei.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="Spielwiese.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
