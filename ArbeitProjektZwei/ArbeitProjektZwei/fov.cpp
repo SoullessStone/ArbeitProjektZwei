@@ -47,5 +47,11 @@ int main() {
 	cout << "fieldOfViewX: " << fieldOfViewX << " degree" << endl;
 	cout << "fieldOfViewY: " << fieldOfViewY << " degree" << endl;
 	cout << "focalLength: " << focalLength << " mm" << endl;
+
+	double fovx = 2 * atan(1920 / (2 * 796.5049)) * 180.0 / CV_PI;
+	double fovy = 2 * atan(1080 / (2 * 731.2438)) * 180.0 / CV_PI;
+	cout << "fovx: " << fovx << " degree" << endl;
+	cout << "fovy: " << fovy << " degree" << endl;
+
 	return 0;
 }
