@@ -40,7 +40,7 @@ void help()
 		<< "--------------------------------------------------------------------------" << endl
 		<< endl;
 }
-int main(int argc, char* argv[])
+int main3(int argc, char* argv[])
 {
 	//print help information
 	help();

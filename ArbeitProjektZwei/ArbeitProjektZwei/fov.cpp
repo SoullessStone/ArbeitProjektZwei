@@ -14,7 +14,7 @@
 using namespace cv;
 using namespace std;
 
-int main() {
+int mainasdfdsa() {
 	// Aus Matlab: 
 	// Focal length (pixels):   [  796.5049 +/- 8.1232      731.2438 +/- 7.5379  ]
 	// Principal point(pixels) :[944.3560 + / -4.8782      508.2241 + / -5.0480]

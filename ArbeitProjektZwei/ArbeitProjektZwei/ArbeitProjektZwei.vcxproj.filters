@@ -32,5 +32,14 @@
     <ClCompile Include="Spielwiese.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="camera_calibration.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="fov.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="yolo.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
